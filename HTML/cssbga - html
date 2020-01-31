@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background:yellow url("college.jpg");
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+margin-left:200px;
+}
+</style>
+</head>
+<body>
+<p>This is a fixed bgi.scroll down the page.</p>
+<p>This is a fixed bgi.scroll down the page.</p>
+<p>This is a fixed bgi.scroll down the page.</p>
+</body>
+</html>
